@@ -1,1 +1,1 @@
-echo "Replace this line with your answer to Challenge #1"
+echo "Hello, my name is Tristan Draper" >> intro.txt

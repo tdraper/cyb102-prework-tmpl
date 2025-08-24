@@ -1,1 +1,1 @@
-echo "Replace this line with your answer to Challenge #2"
+chmod 555 permanent.txt
